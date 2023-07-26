@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sabarigirisan16
+- 👋 Hi, I’m @sabarigirisan
 - 👀 I’m interested in audio systems and web develop!
 - 🌱 I’m currently pursuing ECE!
 - 💞️ I’m looking to collaborate on web development projects....
